@@ -3,9 +3,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"importtidier/logic"
 	"os"
 	"strings"
+
+	"importtidier/logic"
 )
 
 // This script is to tidy import groups of a project. It is a complementary tool
